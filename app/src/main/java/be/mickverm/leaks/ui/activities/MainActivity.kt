@@ -1,8 +1,9 @@
-package be.mickverm.leaks
+package be.mickverm.leaks.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import be.mickverm.leaks.ui.main.MainFragment
+import be.mickverm.leaks.R
+import be.mickverm.leaks.ui.fragments.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

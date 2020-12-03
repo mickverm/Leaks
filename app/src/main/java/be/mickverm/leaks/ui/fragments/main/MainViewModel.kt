@@ -1,4 +1,4 @@
-package be.mickverm.leaks.ui.main
+package be.mickverm.leaks.ui.fragments.main
 
 import androidx.lifecycle.ViewModel
 
